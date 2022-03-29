@@ -6,5 +6,5 @@
 <img width="200" height="450" src="./pic/3주차네이버.PNG"></img>
 <img width="200" height="450" src="./pic/3주차전화걸기.PNG"></img>
 
-#4주차
+# 4주차
 <img width="200" height="450" src="./pic/4st_Message.jpg"></img>
