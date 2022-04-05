@@ -8,3 +8,7 @@
 
 # 4주차
 <img width="200" height="450" src="./pic/4st_Message.jpg"></img>
+
+# 5주차
+<img width="200" height="450" src="./pic/5st_dog.PNG"></img>
+<img width="200" height="450" src="./pic/5st_cat.PNG"></img>
