@@ -13,3 +13,7 @@
 <img width="200" height="450" src="./pic/5st_dog.PNG"></img>
 <img width="200" height="450" src="./pic/5st_cat.PNG"></img>
 <img width="200" height="450" src="./pic/5st_a.PNG"></img>
+
+# 6주차
+<img width="200" height="450" src="./pic/6st_area.PNG"></img>
+<img width="200" height="450" src="./pic/6st_height.PNG"></img>
