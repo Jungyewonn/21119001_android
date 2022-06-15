@@ -21,3 +21,6 @@
 # 10주차
 <img width="200" height="450" src="./pic/10st_manu1.PNG"></img>
 <img width="200" height="450" src="./pic/10st_manu2.PNG"></img>
+
+# 11주차
+<img width="200" height="450" src="./pic/11st_movie.PNG"></img>
