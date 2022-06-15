@@ -17,3 +17,7 @@
 # 6주차
 <img width="200" height="450" src="./pic/6st_area.PNG"></img>
 <img width="200" height="450" src="./pic/6st_height.PNG"></img>
+
+# 10주차
+<img width="200" height="450" src="./pic/10st_manu1.PNG"></img>
+<img width="200" height="450" src="./pic/10st_manu2.PNG"></img>
